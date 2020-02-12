@@ -1,0 +1,6 @@
+database:
+  username: lrdgzwjf
+  password: gEonaOwG1szIpLKdALAWP-RtuiCDDsRf
+  host: rajje.db.elephantsql.com
+  port: 5432
+  databaseName: lrdgzwjf
